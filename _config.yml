@@ -1,20 +1,20 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               Jessica Marie Johnson
+tagline:             'history, kinship, and building new worlds'
+description:         'Jessica Marie Johnson is an Associate Professor in the Department of History at the Johns Hopkins University. She is also the Director of LifexCode: Digital Humanities Against Enclosure.'
 url:                 'http://jmjafrx.github.io'
 baseurl:             
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Jessica Marie Johnson
+  url:               https://instagram.com/jmjafrx_
+  email:             jmj@jhu.edu
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: cyan
 
 # Permalinks
 permalink: pretty
