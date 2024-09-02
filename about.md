@@ -1,59 +1,18 @@
+--- 
+layout: 
+page title: About 
 ---
-layout: page
-title: About
----
 
-One of our most pressing and ever-evolving needs as scholars is to pass on our textual artifacts
-from one generation to another. The art of textual editing, among other practices, has helped many
-cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its
-highest form by a dwindling number of scholars. In a digital environment the problem is compounded
-by the difficulties of the medium. While vast repositories and "e-publications" appear on the
-online scene yearly, very few manifest a textual scholar's disciplined attention to detail. In
-contrast, most textual scholars who have made the leap to a rigorous digital practice have focused
-on markup, relying on technical teams to deploy and maintain their work. This makes your average
-scholarly digital edition a very costly and therefore limited affair.
+I’m not uninterested in power. I’m actually very interested in power. I want to pick up on what you were saying about possibilities. Power is certainly the keyword, but I think <i>possibility</i> is also a keyword here. We are both concerned about what possibilities are available. I’m interested in what are the possibilities of Black freedom, in particular, whether it’s in the academy or well beyond.  
 
-As we see it, a minimal edition is one that aims to reduce the size and complexity of the back and
-front end while flattening the learning curves for the user and the producer. Out of the box, the Ed
-theme can help you build a simple reading edition, or a traditional scholarly edition with footnotes
-and a bibliography, without breaking the bank. In our estimate, these are the two most immediately
-useful type of editions for editors and readers. An edition produced with Ed consists of static
-pages whose rate of decay is substantially lower than database-driven systems. As an added bonus,
-these static pages require less bandwidth. Our hope is that our approach can help beginners and
-veterans deploy beautiful editions with less effort, and that it can help us teach a 'full stack'
-[in one academic semester](https://github.com/susannalles/MinimalEditions/blob/master/README.md),
-while allowing us to care for our projects at less cost, and perhaps, just perhaps, to generate
-high-quality editions on github.io in large quantities based on the
-[git-lit](http://jonreeve.com/2015/09/introducing-git-lit/) model by Jonathan Reeve. We're coming
-for you, Kindle!
+What are the possibilities available to people in different positions, I think, is an important question—like for someone like Alondra Nelson, who is magnificent and brilliant, or someone like Elizabeth Alexander, who’s also magnificent and brilliant, and like yourself. What are the possibilities of the university as a structure, and what are the possibilities that are beyond and that are also about dismantling all the things that make the university an industrial complex in the way that it has increasingly become?  
 
+Some of those possibilities mean direct confrontations with power. I think of the Johns Hopkins students doing the Gilman sit-in.1 I think of the students who are organizing around Lorgia García-Peña’s tenure case at Harvard, the students at University of Chicago who are organizing to unionize, who are fighting for the right to be able to do that. All around the country, there are movements happen- ing among faculty, tenure track and non-tenure track, among staff, trying to create space and possibility out of a structure—the university as a structure—that has replicated itself by foreclosing possibility and foreclosing opportunities and foreclos- ing demographics or exploiting demographics that have come to seek knowledge or seek space from their own situations.  
 
-## Sample Ed editions.
+So, I am really interested in that, and I think that possibility can happen. I hope that it can happen as people occupy certain positions of power. I am also skeptical of positions that are created within the academy itself as the sole mechanism for activ- ism and agitation, because again, the university exists to replicate a kind of trunca- tion of freedom and space and air to breathe. What are the ways that those spaces and those positions, either through challenges from other sectors of the university, the town, town-gown situation, the city, the ’hood, the maroon swamps, wherever they might be—how can those positions be pushed?  
 
-- [Our sample site](http://minicomp.github.io/ed/) is the first edition built with Ed.
-- [Fugitive Verses](http://fugitiverses.viraltexts.org/): Popular Reprinted Poetry from Nineteenth Century Newspapers
-- [mini lazarillo](http://minilazarillo.github.io/): A minimal edition of the *Lazarillo de Tormes*
-- [Making and Knowing](https://cu-mkp.github.io/GR8975-edition/): The BnF Ms Fr 640 in Translation
-- [Daisy Miller: A Comedy in Three Acts](https://britaneeelizabeth.github.io/ed/texts/DaisyMillerPlay/)
+But in the end, are those the positions that we want? I’m thinking of what Dylan Rodriguez said in the Ethnic Studies Rise roundtable. I’m paraphrasing: Maybe the point is to make the university unrecognizable to itself. Afterward, do those posi- tions still exist? Do different versions of them exist? In 2015 or 2016, at the Allied Media Conference, I had the privilege and the honor of cohosting a network gathering called “Dismantling the Ivory Tower” with Kai Green, Moya Bailey, and Van Bailey, who are some of the smartest organizer/ activist/scholars that I have ever encountered. One of the things that came out of that was the realization that the best parts of the academy, the best pieces that we wanted to take with us, the pieces that we actually wanted to reproduce, were labor issues: space to write, space to think with archives or documents or texts, space to create, resources to create so that people didn’t feel like they were starving, health care, sum- mers “off ”—off, quote unquote—because we’ve seen what this summer has been.  
 
+These are things that are part of and pockets of the institution, that I think are some of the best things to carry out of it. But they are also the things that the uni- versity kind of holds over our heads—that a university holds over its workers’ heads as ways to police, to self-discipline, to say, “Don’t speak too loudly because we’ll take this from you, or we’ll cut your benefits.” Those are the kinds of grapplings that, well, if we think of really dismantling the university, it’s going to look nothing like what it did. But, as with all abolitionist tracks, nothing in society will look the same.  
 
-## Current Features
-
-- Templates for narrative, drama and poetry
-- Responsive design for mobile phones, tablets and PCs.
-- Relatively easy to learn and teach
-- Works well in high- or low- bandwidth scenarios
-- Easier for digital archives and libraries to preserve
-- Open source, open access
-- Unobtrusive footnotes
-- Metadata in Dublin Core and OpenGraph to play nice with Zotero, libraries and social media.
-- Automatic table of content generation
-- Simple search functionality
-- Annotations via [hypothes.is](https://hypothes.is/)
-- Optional: Ability to generate well-formatted bibliographies and linked citations
-
-
-## Installing and using Ed
-
-To learn how to install and begin using Ed, please visit our
-[documentation page](http://minicomp.github.io/ed/documentation).
+-- Jessica Marie Johnson in conversation with Martha Jones in the 2020 #unsilencedpast interview series, moderated by Kaiama Glover.  Republished in 2023 as “The Power to Create: Building Alternative (Digital) Worlds: A Conversation with Martha S. Jones and Jessica Marie Johnson,” in <i>Debates in the Digital Humanities 2023</i>, ed. Lauren F. Klein and Matthew K. Gold (Minneapolis: University of Minnesota Press, 2023), <a href="https://muse.jhu.edu/pub/23/edited_volume/book/103333">https://muse.jhu.edu/pub/23/edited_volume/book/103333</a>
