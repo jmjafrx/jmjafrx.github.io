@@ -1,6 +1,6 @@
 --- 
-layout: 
-page title: About 
+layout: page 
+title: About 
 ---
 
 I’m not uninterested in power. I’m actually very interested in power. I want to pick up on what you were saying about possibilities. Power is certainly the keyword, but I think <i>possibility</i> is also a keyword here. We are both concerned about what possibilities are available. I’m interested in what are the possibilities of Black freedom, in particular, whether it’s in the academy or well beyond.  
