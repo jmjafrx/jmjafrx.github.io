@@ -30,9 +30,9 @@ $link-color: #841212;
 
 img {
     float: center;
-    width: 80%;
+    width: 600px;
     height: auto;
-    aspect-ratio: 3/2 auto;
+    object-fit: contain;
 }
 
 
