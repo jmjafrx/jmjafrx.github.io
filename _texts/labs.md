@@ -5,12 +5,12 @@ author: JMJ
 ---
 <h1>Laboratories and Workshops</h1>
 
-<p>
+
 As Founding Director of LifexCode: Digital Humanities Against Enclosure (LxC) <a href="http://lifexcode.org">lifexcode.org</a>, Johnson leads over one hundred labs, projects, members and community partners in exploring ways digital and social media, technology and knowledges can support radical (antiracist and deconial) movement-making, intellectual production and community formation. 
 
 Labs, projects and LxC members advance radical, Black feminist, digital humanities research through public facing projects that bring history, social justice, and digital media into conversation with each other. Current projects explore digital history and historical repositories related to marronage and fugitivity, Black Louisiana, Black churches in Baltimore, Black data and AI, Black Puerto Rican data and resistance, Black cultural workers, and more. 
-</p>  
-<p>
+
+
 <b>LxC is the winner of the 2020 Garfinkel Prize from the American Studies Association.</b> 
 </p>
 <p>

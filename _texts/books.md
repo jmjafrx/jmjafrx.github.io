@@ -4,7 +4,7 @@ title: Books
 author: JMJ
 ---
 Johnson’s <i>Wicked Flesh: Black Women, Intimacy, and Freedom in the Atlantic World</i> is the:
-</p>
+
 
 <ul>
   <li>winner of the 2021 Frank L. and Harriet C. Owsley Award for Best Book in Southern History from the Southern Historical Association</li>

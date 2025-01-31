@@ -4,7 +4,7 @@ title: Other Scholarship
 author: JMJ
 ---
 She is guest editor of Slavery in the Machine, a special issue of archipelagos journal (formerly sx:archipelagos) (2019) and co-editor with Dr. Mark Anthony Neal (Duke University) of Black Code: A Special Issue of the Black Scholar (2017). 
-</p>
+
 <p>
 Her work has appeared in Scholarly Editing, History of the Present, Slavery & Abolition, The Black Scholar, Meridians: Feminism, Race and Transnationalism, American Quarterly, Social Text, The Journal of African American History, the William & Mary Quarterly, Debates in the Digital Humanities (2nd edition), Forum Journal, Bitch Magazine, Black Perspectives (AAIHS), Somatosphere and Post-Colonial Digital Humanities (DHPoco) and her book chapters have appeared in multiple edited collections.
 </p>
