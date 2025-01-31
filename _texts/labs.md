@@ -3,8 +3,6 @@ layout: page
 title: Laboratories and Workshops
 author: JMJ
 ---
-<h1>Laboratories and Workshops</h1>
-
 
 As Founding Director of LifexCode: Digital Humanities Against Enclosure (LxC) <a href="http://lifexcode.org">lifexcode.org</a>, Johnson leads over one hundred labs, projects, members and community partners in exploring ways digital and social media, technology and knowledges can support radical (antiracist and deconial) movement-making, intellectual production and community formation. 
 
